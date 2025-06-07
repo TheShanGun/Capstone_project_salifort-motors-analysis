@@ -27,5 +27,5 @@ This project helped strengthen my data wrangling and EDA skills, while also lear
 
 ---
 
-👨‍💻 **Author**: [Your Name]  
+👨‍💻 **Author**: ShivaShankar
 📅 **Completed**: April 2025
